@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Thundermcxd.aternos.me:33996",
+    "ip": "carp.aternos.host",
     "port": 33996,
     "version": "",
     "try-creative": false
